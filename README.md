@@ -37,6 +37,10 @@ Note: clasp automatically transpiles .ts files to valid Apps Script files upon c
 
 ## Verify the project works on script.google.com
 Open the Apps Script project on script.google.com:
+
+```
+clasp open
+```
 Notice how a transpiled version of your project was pushed to the Apps Script server.
 
 
